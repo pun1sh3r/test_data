@@ -16,5 +16,5 @@ setup(
         'Programming Language :: Python :: 2.7'
     ],
     keywords='development',
-    packages=['test_data', 'test_data.zoo],
+    packages=['test_data'],
 )
