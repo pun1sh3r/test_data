@@ -14,6 +14,7 @@ feed_msg = Document(
     name='some feed message',
     category='osint',
     source='some feed',
+    investigator='Jackie Chan',
     received=datetime(2013, 03, 10, 15, 29),
     id=888)
 exfil = TTP(category='exfiltration site', id=22)
